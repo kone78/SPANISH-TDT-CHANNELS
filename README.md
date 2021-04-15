@@ -1,5 +1,4 @@
-# SPANISH-TDT-CHANNELS
-List spanish TDT &amp; other country
+
 #EXTM3U
 #EXTINF:0 tvg-id="LA1.es" group-title="Generalistas",La 1
 https://rtvelivestream.akamaized.net/la1_main_dvr.m3u8
